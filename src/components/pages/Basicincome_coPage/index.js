@@ -22,7 +22,6 @@ require('../../../bitnation/bitnation.dapps');
 require('../../../bitnation/bitnation.basicincome');
 
 var Basicincome_coPlatforms = require('../../basicincome_co/Platforms/index.js');
-var Basicincome_co = require('./library.js');
 
 
 var DAppService = new Bitnation.dapps.Service();
